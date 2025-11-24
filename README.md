@@ -11,10 +11,11 @@ I'm from spain **🇪🇸**
 
 ### GitHub stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonsGit&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alfonsGit&theme=city-lights)](https://git.io/streak-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?alfonsGit=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alfonsGit=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ✨ Gracias por pasarte por mi perfil ✨
-
