@@ -13,7 +13,7 @@ I'm from spain **🇪🇸**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alfonsGit&theme=city-lights)](https://git.io/streak-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?alfonsGit=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alfonsGit=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
