@@ -13,8 +13,5 @@ I'm from spain **🇪🇸**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alfonsGit&theme=city-lights)](https://git.io/streak-stats)
 
-### TryHackMe stats
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6387847" style='border:none;'></iframe>
 
 ✨ Gracias por pasarte por mi perfil ✨
